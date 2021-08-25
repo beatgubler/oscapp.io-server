@@ -1,7 +1,7 @@
 # oscapp.io Server/API
 
 ## Description
-Main Project can be found here: https://github.com/beatgubler/oscapp.io-app
+Main Project can be found here: https://github.com/beatgubler/oscapp.io
 
 ## Installation
 * Install NodeJS -> https://nodejs.org/en/download/
